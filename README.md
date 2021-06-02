@@ -25,6 +25,7 @@ I am __Alvin K Tedjo__, a business and data analyst with ~1 year of progressive 
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[Extracurricular](#extracurricular) <br>
 
 <!-- ABOUT Section Ends -->
 
@@ -85,3 +86,4 @@ Machine Learning by Columbia University
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
 
+##### Extracullicular
